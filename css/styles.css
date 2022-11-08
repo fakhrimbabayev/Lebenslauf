@@ -65,9 +65,9 @@ body {
 .about-me-description {
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 11px;
     width: 400px;
-    margin: 0 0 25px 0;
+    padding: 0 0 25px 0;
     color: #595959;
 }
 
@@ -223,6 +223,7 @@ body {
 
 
 .my-photo {
+    display: block;
     width: 370px;
     height: 404px;
     left: 40px;
