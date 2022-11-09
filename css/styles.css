@@ -20,23 +20,31 @@ body {
     width: auto;
 }
 
+.main-content-title-container {
+    border-bottom: 1px solid #1e2939;
+    margin-bottom: 30px;
+}
+
 .main-content-title {
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 27px;
+    line-height: 1.1;
     color: #000;
-    padding-bottom: 25px;
-    margin-top: 0px;
 }
 
 .content-title {
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 27px;
+    line-height: 1.1;
     color: #000;
-    padding-bottom: 25px;
+}
+
+.content-title-container {
+    border-top: 1px solid #1e2939;
+    border-bottom: 1px solid #1e2939;
+    margin-bottom: 30px;
 }
 
 /* about me section */
@@ -120,7 +128,6 @@ body {
 
 .my-work-experience-section {
     margin-top: 30px;
-    border-top: 3px solid #1e2939;
 }
 
 .my-work-experience-align {
@@ -173,7 +180,11 @@ body {
 }
 
 .my-work-experience-company-block {
-    margin: 0 0 15px 0;
+    margin-right: 1px;
+}
+
+.reisende {
+    font-family: 'Montserrat';
 }
 
 .my-work-experience-company-align {
@@ -189,7 +200,7 @@ body {
 /* my education section */
 
 .my-education-section {
-    border-top: 3px solid #1e2939;
+
 }
 
 .my-education {
