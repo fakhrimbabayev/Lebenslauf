@@ -47,6 +47,12 @@ body {
     margin-bottom: 30px;
 }
 
+.content-title-container-1 {
+    border-top: 1px solid #1e2939;
+    border-bottom: 1px solid #1e2939;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 /* about me section */
 
 .about-me-section {
@@ -183,9 +189,6 @@ body {
     margin-right: 1px;
 }
 
-.reisende {
-    font-family: 'Montserrat';
-}
 
 .my-work-experience-company-align {
     font-family: 'Montserrat';
@@ -200,7 +203,11 @@ body {
 /* my education section */
 
 .my-education-section {
+    margin-top: 30px;
+}
 
+.my-education-container {
+    padding-top: 30px;
 }
 
 .my-education {
