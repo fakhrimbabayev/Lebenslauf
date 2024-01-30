@@ -62,10 +62,11 @@ body {
     margin-left: 12px;
 }
 
-.about-me-proffession {
+.about-me-proffession { 
+    margin-top: auto;
     font-weight: 700;
+    font-size: 14px;
     color: #fff;
-    font-weight: 700;
     line-height: 1.1;
 
 }
